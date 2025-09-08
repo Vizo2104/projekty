@@ -1,4 +1,6 @@
-chao
+
+
+
 rodina = ['vuong', 'toan', 'hong']
 print(rodina)
 rodina[0] = 'khuong'
